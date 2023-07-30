@@ -1,4 +1,4 @@
-#Estudo sobre Azure Functions - Conversor de Temperatura
+# Estudo sobre Azure Functions - Conversor de Temperatura
 
 Este é um projeto simples utilizado para o estudo de Azure Functions, uma solução de computação serverless da Microsoft. 
 O código é uma API serverless que implementa um conversor de temperatura que permite converter valores de Celsius para Fahrenheit e vice-versa. 
